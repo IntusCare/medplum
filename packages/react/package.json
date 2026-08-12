@@ -95,7 +95,7 @@
     "@vueless/storybook-dark-mode": "10.0.7",
     "chromatic": "16.6.3",
     "dotenv": "17.4.2",
-    "postcss": "8.5.13",
+    "postcss": "8.5.23",
     "postcss-preset-mantine": "1.18.0",
     "react": "19.2.5",
     "react-dom": "19.2.5",
